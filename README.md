@@ -13,12 +13,30 @@ A heat control system is build using Atmega328.The button sensor first senses is
 |5_Simulation|SimulIDE Simaulation FIle|
 |6_Images and Videos|Images, GIFS related to Outputs|
 
+Codacy Badge
 
-![Codacy Badge](https://api.codacy.com/project/badge/Grade/904e30185b39415d8d50ae0537196d9c)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/78232789450b40daa10c0c74f810f497)](https://www.codacy.com/gh/Mamtavishe/M2-Embedded_Heatcontrolsystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Mamtavishe/M2-Embedded_Heatcontrolsystem&amp;utm_campaign=Badge_Grade)
 
-![Badge](https://api.codiga.io/project/30159/score/svg)
+Code Quality Score
 
-![BAdge](https://api.codiga.io/project/30159/status/svg)
+![Badge](https://api.codiga.io/project/30182/score/svg)
 
+Code Grade
 
+![BAdge](https://api.codiga.io/project/30182/status/svg)
 
+Git Inspector
+
+[![GitInspector](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/GitInspector.yml/badge.svg)](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/GitInspector.yml)
+
+Cppcheck passing
+
+[![C/C++ CI](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/c-cpp.yml)
+
+[![CI](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/main.yml/badge.svg)](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/main.yml)
+
+Linux Passing
+
+[![Linux C/C++ CI](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/Linux-c-cpp.yml/badge.svg)](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/Linux-c-cpp.yml)
+
+[![Compile-Linux](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/compile.yml/badge.svg)](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/compile.yml)
