@@ -38,11 +38,9 @@ Git Inspector
 Cppcheck passing
 
 [![C/C++ CI](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/c-cpp.yml)
-
 [![CI](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/main.yml/badge.svg)](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/main.yml)
 
 Linux Passing
 
 [![Linux C/C++ CI](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/Linux-c-cpp.yml/badge.svg)](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/Linux-c-cpp.yml)
-
 [![Compile-Linux](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/compile.yml/badge.svg)](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/compile.yml)
