@@ -21,7 +21,7 @@ Code Quality Score
 
 ![Badge](https://api.codiga.io/project/30182/score/svg)
 
-Code Score
+Code Grade
 
 ![BAdge](https://api.codiga.io/project/30182/status/svg)
 
