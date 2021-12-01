@@ -20,5 +20,7 @@ A heat control system is build using Atmega328.The button sensor first senses is
 
 ![BAdge](https://api.codiga.io/project/30159/status/svg)
 
+[![C/C++ CI](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/c-cpp.yml)
+
 
 
