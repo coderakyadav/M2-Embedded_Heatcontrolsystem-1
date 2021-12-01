@@ -1,6 +1,6 @@
 /**
  * @file HeatControlSystem_Main.c
- * @author Akhil Pulicheri
+ * @author Mamta vishe
  * @brief A program for Heat control system.
  * @version 0.1
  * @date 2021-12-01
