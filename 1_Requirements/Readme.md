@@ -1,6 +1,4 @@
-## Heat Control System
-
-A heat control system is build using Atmega328.The button sensor first senses is a passenger or driver is onboarded in the car. When both button sensor and heat sensor are turned on the led glows.Only then the temperature sensor works and takes values from the ADC whose output is shown as pulse width modulation. All the data is transffered using UART communication protocal.
+# Requirements
 
 ## Introduction
 
@@ -8,17 +6,18 @@ The heat control system is used to control the temperature of the car seat. When
 
 ## Components used
 
-ATmega328 microcontroller
+ATmega328 microcontroller 
 
 temperature sensor (Potentiometer)
 
 Switches(button and heater)
 
-LED
+LED 
 
 LCD display
 
-Software used
+## Software used
+
 SimulIDE
 
 GCC Compiler for AVR
@@ -35,8 +34,9 @@ The temperature sensor keeps monitoring the temperature and sends the analog val
 
 ## SWOT - Strengths, Weakness, Opportunities and Threats
 
-Strengths
-Robust in nature
+### Strengths
+
+Robust in nature 
 
 low cost
 
@@ -44,39 +44,53 @@ Easily accessible by the any person
 
 High efficiency
 
-Weakness
+### Weakness
+
 This system can be used at low to moderate temperature.
 
-Opportunities
-This system can be expanded by adding few more features depending on the user requirement.
+### Opportunities
 
-Threats
+This system can be expanded by adding few more features depending on the user requirement. 
+
+### Threats
+
 This system cannot be used for very high temperature.
 
 ## 4W's and 1H
 
-What - Heating control system in a vehicle
+*What* - Heating control system in a vehicle
 
-Where - Used in almost all of the passenger vehicles
+*Where* - Used in almost all of the passenger vehicles
 
-When - When temperature is low
+*When* -  When temperature is low
 
-Why - To maintain body temperature
+*Why* - To maintain body temperature
 
-How - By using sensors
+*How* - By using sensors
 
 ## Detail Requirements
 
-## High Level Requirements
-ID	Description
-HLR1	Microcontroller unit
-HLR2	Switches
-HLR3	Temperature sensor
-HLR4	Heater
-HLR5	Display CDD CRO
-## Low Level Requirements
-ID	Description	HLR ID
-LLR1	ATMega328	HLR1
-LLR2	ADCand Potentiometer	HLR3
-LLR3	Thermo electric module	HLR4
-LLR4	LCD and LED, PWM	HLR5
+### High Level Requirements
+
+
+| **ID** | **Description** |
+| :- | :- |
+|HLR1|Microcontroller unit    |
+|HLR2|Switches|
+|HLR3|Temperature sensor|
+|HLR4|Heater|
+|HLR5|Display CDD CRO|
+
+### Low Level Requirements
+
+
+| **ID** | **Description** | **HLR ID** |
+| :- | :- | :- |
+|LLR1|ATMega328|HLR1|
+|LLR2|ADCand Potentiometer|HLR3|
+|LLR3|Thermo electric module|HLR4|
+|LLR4|LCD and LED, PWM|HLR5|
+
+
+
+
