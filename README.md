@@ -26,5 +26,7 @@ A heat control system is build using Atmega328.The button sensor first senses is
 
 [![GitInspector](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/GitInspector.yml/badge.svg)](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/GitInspector.yml)
 
+[![CI](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/main.yml/badge.svg)](https://github.com/Mamtavishe/M2-Embedded_Heatcontrolsystem/actions/workflows/main.yml)
+
 
 
