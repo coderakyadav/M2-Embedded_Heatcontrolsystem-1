@@ -14,7 +14,7 @@ A heat control system is build using Atmega328.The button sensor first senses is
 |6_Images and Videos|Images, GIFS related to Outputs|
 
 
-![Codacy Badge](https://api.codacy.com/project/badge/Grade/904e30185b39415d8d50ae0537196d9c)
+![Codacy Badge](https://app.codacy.com/project/badge/Grade/78232789450b40daa10c0c74f810f497)](https://www.codacy.com/gh/Mamtavishe/M2-Embedded_Heatcontrolsystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Mamtavishe/M2-Embedded_Heatcontrolsystem&amp;utm_campaign=Badge_Grade)
 
 ![Badge](https://api.codiga.io/project/30159/score/svg)
 
