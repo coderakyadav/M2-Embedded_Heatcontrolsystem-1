@@ -1,7 +1,3 @@
-# Doxygen generated files
-*Build*
-*html*
-
 # Prerequisites
 *.d
 
@@ -10,7 +6,6 @@
 *.ko
 *.obj
 *.elf
-*.hex
 
 # Linker output
 *.ilk
